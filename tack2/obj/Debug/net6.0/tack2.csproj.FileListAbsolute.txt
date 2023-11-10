@@ -1,0 +1,15 @@
+C:\Users\egorl\source\repos\h3\tack2\obj\Debug\net6.0\tack2.csproj.AssemblyReference.cache
+C:\Users\egorl\source\repos\h3\tack2\obj\Debug\net6.0\tack2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egorl\source\repos\h3\tack2\obj\Debug\net6.0\tack2.AssemblyInfoInputs.cache
+C:\Users\egorl\source\repos\h3\tack2\obj\Debug\net6.0\tack2.AssemblyInfo.cs
+C:\Users\egorl\source\repos\h3\tack2\obj\Debug\net6.0\tack2.csproj.CoreCompileInputs.cache
+C:\Users\egorl\source\repos\h3\tack2\bin\Debug\net6.0\tack2.exe
+C:\Users\egorl\source\repos\h3\tack2\bin\Debug\net6.0\tack2.deps.json
+C:\Users\egorl\source\repos\h3\tack2\bin\Debug\net6.0\tack2.runtimeconfig.json
+C:\Users\egorl\source\repos\h3\tack2\bin\Debug\net6.0\tack2.dll
+C:\Users\egorl\source\repos\h3\tack2\bin\Debug\net6.0\tack2.pdb
+C:\Users\egorl\source\repos\h3\tack2\obj\Debug\net6.0\tack2.dll
+C:\Users\egorl\source\repos\h3\tack2\obj\Debug\net6.0\refint\tack2.dll
+C:\Users\egorl\source\repos\h3\tack2\obj\Debug\net6.0\tack2.pdb
+C:\Users\egorl\source\repos\h3\tack2\obj\Debug\net6.0\tack2.genruntimeconfig.cache
+C:\Users\egorl\source\repos\h3\tack2\obj\Debug\net6.0\ref\tack2.dll
